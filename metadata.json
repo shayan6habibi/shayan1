@@ -1,0 +1,7 @@
+{
+  "name": "Shayan Futuristic VPN",
+  "description": "A high-end, cyberpunk-themed VPN client featuring a glassmorphism UI, neon accents, and an integrated Gemini AI assistant for troubleshooting.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
